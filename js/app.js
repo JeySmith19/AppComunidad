@@ -34,3 +34,7 @@ document.getElementById("btnBuscar").addEventListener("click", () => {
 
   resultado.classList.remove("oculto");
 });
+
+document.getElementById("numero").addEventListener("input", function () {
+  this.value = this.value.replace(/\D/g, "");
+});
