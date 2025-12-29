@@ -23,7 +23,7 @@ window.listaNegra = [
   { numero: "+51930529415", motivo: "Cuenta fake de Olivera" },
   { numero: "+593985616335", motivo: "Vende mal los id, habla mal de las personas a sus espaldas, falta de respeto" },
   { numero: "+5117071601", motivo: "Cuenta fake de Olivera" },
-  { numero: "+51953592325", motivo: "Cuenta fake de Olivera" }
+  { numero: "+51953592325", motivo: "Cuenta fake de Olivera" },
   { numero: "+51951755879", motivo: "Incumplimiento de pago en la Subasta Carnívora" },
 
 ];
